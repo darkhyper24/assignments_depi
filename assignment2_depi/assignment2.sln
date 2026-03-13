@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment5_depi", "..\assi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exam2_depi", "..\exam2_depi\exam2_depi.csproj", "{CAD771E7-2F65-49C5-B9C1-B745A7D7EF07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment6_depi", "..\assignment6_depi\assignment6_depi.csproj", "{29736BAC-81BA-4CBD-8740-22C484F2851E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CAD771E7-2F65-49C5-B9C1-B745A7D7EF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAD771E7-2F65-49C5-B9C1-B745A7D7EF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAD771E7-2F65-49C5-B9C1-B745A7D7EF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29736BAC-81BA-4CBD-8740-22C484F2851E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29736BAC-81BA-4CBD-8740-22C484F2851E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29736BAC-81BA-4CBD-8740-22C484F2851E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29736BAC-81BA-4CBD-8740-22C484F2851E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
